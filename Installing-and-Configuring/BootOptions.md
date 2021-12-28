@@ -1,3 +1,5 @@
+TEST
+
 ---
 layout: default
 title: Configuring Boot Options
